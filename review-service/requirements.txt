@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+python-jose
+python-dotenv
+httpx
+pydantic-settings
